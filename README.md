@@ -1,5 +1,5 @@
 # Introduction
-This project invetigates the relationships between individual stock prices and the general index, as well as the responses of each sector under the influence of the 2020 stock market crush.
+This project invetigates the relationships between individual stock prices and the general index, as well as the responses of each sector under the influence of the 2020 stock market crash.
 
 # Datasets
 This project uses three datasets:
